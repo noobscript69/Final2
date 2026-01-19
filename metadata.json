@@ -1,0 +1,7 @@
+{
+  "name": "Lumina AI Studio",
+  "description": "A comprehensive creative hub powered by Gemini, featuring instant brainstorming, AI image generation, and real-time voice interaction.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
